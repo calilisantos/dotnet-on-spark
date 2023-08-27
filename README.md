@@ -88,7 +88,7 @@ O objetivo é testar o .NET no Apache Spark através de um aplicativo de console
   5º Dentro da pasta, execute o seguinte comando no terminal:
 
   ```spark
-  spark-submit \ 
+  spark-submit \
   --class org.apache.spark.deploy.dotnet.DotnetRunner \
   --master local \
   microsoft-spark-3-2_2.12-2.1.1.jar \
