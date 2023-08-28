@@ -39,7 +39,7 @@ O objetivo é testar o .NET no Apache Spark através de um aplicativo de console
 
   [Essa documentação](https://learn.microsoft.com/pt-br/previous-versions/dotnet/spark/tutorials/get-started?tabs=linux&WT.mc_id=dotnet-35129-website) orienta como instalá-las no Windows, Mac e Linux e foi também a base para esse projeto. 
   
-  Para uso do Apache Spark no Linux e Mac, os seguintes passos [desse site](https://www.vultr.com/docs/install-apache-spark-on-ubuntu-20-04/?utm_source=performance-max-latam&utm_medium=paidmedia&obility_id=17096555207&utm_adgroup=&utm_campaign=&utm_term=&utm_content=&gclid=CjwKCAjwxaanBhBQEiwA84TVXJ_-wFrxQKfGLVBbsUzhulDxIuDdXzyuF6gKLw5UVoPJeG94eaU0wRoCcuMQAvD_BwE) podem ser úteis.
+  Para uso do Apache Spark no Linux e Mac, os seguintes passos [desse site](https://www.vultr.com/docs/install-apache-spark-on-ubuntu-20-04/?utm_source=performance-max-latam&utm_medium=paidmedia&obility_id=17096555207&utm_adgroup=&utm_campaign=&utm_term=&utm_content=&gclid=CjwKCAjwxaanBhBQEiwA84TVXJ_-wFrxQKfGLVBbsUzhulDxIuDdXzyuF6gKLw5UVoPJeG94eaU0wRoCcuMQAvD_BwE)podem ser úteis, também os [arquivos de distribuição disponíveis](https://archive.apache.org/dist/spark/)
 
   Um ponto de atenção é que no momento de criação desse repositório a versão mais recente do Spark compatível com o .NET foi a **3.2.1** (que é usada aqui). 
 
