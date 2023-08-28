@@ -1,7 +1,7 @@
 ﻿using Microsoft.Spark.Sql;
 using static Microsoft.Spark.Sql.Functions;
 
-namespace MySparkApp
+namespace FlowOfCash
 {
     class Program
     {
